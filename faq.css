@@ -1,0 +1,28 @@
+.bc-faq-titles, .bc-question {
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+    font-size: 38px;
+    font-weight: 400;
+}
+.bc-question {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+    line-height: 33.6px;
+    margin-top: 15px;
+}
+.bc-answer {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.26px;
+    line-height:28.6px;
+    color: rgba(82, 82, 82, 0.6);
+}
+.bc-signature-label {
+    margin: -3px;
+}
+.bc-faq-whole {
+    margin-left: 270px;
+    margin-right: 270px;
+}

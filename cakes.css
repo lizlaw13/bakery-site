@@ -1,0 +1,60 @@
+.bc-signature-label {
+    margin: 5px;
+}
+.bc-step-1 {
+    margin: 50px;
+}
+.bc-text, .bc-dropdown {
+    margin: 5px;
+}
+.bc-cart {
+    padding: 15px;
+}
+.bc-home-description {
+    font-size: 10.5px;
+}
+.bc-steps {
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+    font-size:26px;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+    line-height: 33.6px;
+}
+.bc-signature-price {
+    margin-bottom: 30px;
+}
+.bc-form-style {
+    font-family: 'Yantramanav', sans-serif;
+    color:rgba(82, 82, 82, 0.6);
+    font-size:13px;
+    font-weight: 400;
+    letter-spacing: 0.26px;
+    line-height: 28.6px;
+
+}
+.bc-home-button {
+    color:rgb(34, 34, 34);
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 24px;
+    padding-left: 24px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    line-height: 12px;
+}
+.bc-check-out {
+    text-align:center;
+}
+.bc-checkout-button {
+    padding: 25px;
+    margin-top: 25px;
+}
+form {
+    text-align: center;
+}
+img {
+    width: 387px;
+    height: 387px;
+}

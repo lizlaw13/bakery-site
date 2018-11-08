@@ -1,0 +1,20 @@
+.bc-about-pic {
+    text-align: center;
+    height:898px;
+    width: 1290px;
+}
+.bc-faq-whole {
+    padding: 55px;
+}
+.bc-question {
+    color:rgb(0, 0, 0);
+    font-size: 38px;
+    margin-bottom: 40px;
+}
+.bc-home-button {
+    text-align: center;
+}
+.bc-signature-label {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}

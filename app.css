@@ -1,0 +1,161 @@
+/* GENERAL STYLE */
+img {
+    padding:10px;
+    width: 407.328px;
+    height: 387.328px;
+}
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* LAYOUT- COLUMNS */
+.bc-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+/* MAIN TITLE (HEADER) */
+.bc-title {
+    padding: 50px;
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+}
+/* NAVIGATION BAR */
+.bc-nav {
+    padding: 57px;
+}
+.bc-nav-link {
+    padding: 10px;
+    margin: 5px;
+    font-family: 'Yantramanav', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 9.75px;
+    letter-spacing: 1.95px;
+    line-height: 9.75px;
+    color:rgba(82, 82, 82, 0.7);
+    background-color:rgba(0, 0, 0, 0);
+}
+/* TOP AND BOTTOM HOME IMAGES */
+.bc-home-img, .bc-end-image {
+    background-image: url("https://66.media.tumblr.com/8996ab4b565e0fed17ca39189e4be9c4/tumblr_p57gf3gUB01we9f2ro1_r1_1280.gif");
+    height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bc-end-image {
+    background-image: url("https://66.media.tumblr.com/2710350b094297d8ff1b41f9344dbbc6/tumblr_p626nxm7tW1uo4apxo1_1280.jpg");
+    height: 550px;
+    margin-top: 70px;
+}
+/* TITLES + DESCRIPTION + BUTTON FOR EACH SECTION */
+.bc-home-titles{
+    font-size: 45px;
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    outline-color:gb(0, 0, 0);
+    outline-style:none;
+    outline-width:0px;
+
+}
+.bc-home-description {
+    font-size:11px;
+    font-weight: 600;
+    font-family: 'Yantramanav', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    margin-top: 26px;
+}
+.bc-home-button {
+    font-family: 'Yantramanav', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 10px;
+    background-color:rgba(0, 0, 0, 0);
+    border-bottom-color:rgb(0, 0, 0);
+    border-bottom-style:solid;
+    border-bottom-width:2px;
+    border-left-color:rgb(0, 0, 0);
+    border-left-style:solid;
+    border-left-width:2px;
+    border-right-color:rgb(0, 0, 0);
+    border-right-style:solid;
+    border-right-width:2px;
+    border-top-color:rgb(0, 0, 0);
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    border-top-style:solid;
+    border-top-width:2px;
+    padding-bottom:20px;
+    padding-left:34px;
+    padding-right:34px;
+    padding-top:20px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+/* NAME + PRICE FOR EACH CAKE  */
+.bc-home-cakes, .bc-home-price {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 18.5px; 
+    letter-spacing: 0.26px;
+    line-height: 16.9px;
+    font-weight: 400;
+    background-color:rgba(0, 0, 0, 0);
+    color:rgba(82, 82, 82, 0.6);
+    margin-bottom:3.38px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:8.9px;
+}
+.bc-home-price {
+    font-size: 16.5px;
+    margin-bottom:51.3px;
+}
+/* SOCIAL TITLES */
+.bc-home-social {
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+    color:rgba(0, 0, 0);
+    font-size: 24px;
+    font-weight: 400;
+    line-height:33.6px;
+    letter-spacing: 1.8px;
+    text-decoration: underline;
+}
+.bc-home-insta {
+    font-family: 'Yantramanav', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px; 
+    letter-spacing: 2px;
+    line-height: 18px;
+    font-weight: 600;
+    background-color:rgba(0, 0, 0, 0);
+    color:rgba(82, 82, 82, 0.6);
+    margin-top: 15px;
+}
+a.bc-insta-link {
+    color:rgba(0, 0, 0);
+}
+/* FOOTER */
+.bc-footer {
+    margin-top: 45px;
+}
+.bc-footer-title{
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+    font-size: 27px;
+    font-weight: 400;
+    line-height:33.6px;
+    letter-spacing: 0.8px;
+}
+.bc-signature-label {
+    text-align:center;
+    margin-top:50px;
+}
+.line2 {
+    margin-bottom: 30px;
+}
